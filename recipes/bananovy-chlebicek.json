@@ -1,0 +1,33 @@
+{
+  "title": "Banánový chlebíček",
+  "summary": "Vláčný banánový dezert s vyváženým poměrem surovin a vylepšenou strukturou díky preciznímu postupu míchání.",
+  "ingredients": [
+    "400 g přezrálých banánů (cca 4 ks)",
+    "125 g krupicového cukru",
+    "115 g změklého másla",
+    "60 ml plnotučného mléka",
+    "2 ks vejce (velikost M)",
+    "280 g hladké mouky",
+    "5 ml citronové šťávy",
+    "2 g soli",
+    "6 g prášku do pečiva",
+    "3 g jedlé sody",
+    "60 g hořké čokolády (min. 60% kakaa)"
+  ],
+  "instructions": [
+    "Předehřejte troubu na 175 °C a vyložte formu pečicím papírem pro snadné vyjmutí.",
+    "Ve větší míse vyšlehejte máslo s cukrem do světlé pěny, postupně zašlehejte vejce jedno po druhém.",
+    "Banány rozmačkejte vidličkou a smíchejte s mlékem a citronovou šťávou.",
+    "V samostatné míse smíchejte prosátou mouku, sůl, prášek do pečiva a jedlou sodu.",
+    "Do máslové směsi střídavě vmíchejte banánovou směs a suché přísady. Míchejte jen krátce, dokud se suroviny nespojí, aby těsto zůstalo nadýchané.",
+    "Nakonec vmíchejte nasekanou čokoládu a těsto vlijte do připravené formy.",
+    "Pečte 50–55 minut, dokud špejle zapíchnutá do středu nevyjde čistá."
+  ],
+  "applianceTips": "Při použití kuchyňského robota (např. Thermomix) míchejte moučnou směs maximálně 10 sekund na nízké otáčky, aby nedošlo k nadměrnému rozvoji lepku, což by způsobilo tuhost chlebíčku.",
+  "expertJustification": "Snížil jsem množství kypřicích látek, protože příliš mnoho sody může zanechat mýdlovou pachuť. Použití hladké mouky místo polohrubé zajišťuje jemnější texturu. Postup střídavého přidávání surovin zajišťuje správnou emulgaci tuků a tekutin, což zabraňuje sražení těsta a zajišťuje rovnoměrnou vlhkost po upečení.",
+  "applianceType": "Klasická trouba",
+  "cookingTime": "65 min",
+  "difficulty": "Snadné",
+  "category": "Sladká jídla a moučníky",
+  "id": "gen-1781776435210"
+}
