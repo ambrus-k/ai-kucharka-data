@@ -1,0 +1,32 @@
+{
+  "title": "Langoše",
+  "summary": "Tradiční kynuté placky s křupavou kůrkou a vláčným středem, připravené s důrazem na správnou teplotu oleje a hydrataci těsta.",
+  "ingredients": [
+    "500 g hladké pšeničné mouky (typ 00)",
+    "330 ml plnotučného mléka",
+    "20 g čerstvého droždí",
+    "20 ml řepkového oleje do těsta",
+    "10 g jemné soli",
+    "5 g krystalového cukru",
+    "1000 ml řepkového oleje na smažení",
+    "3 stroužky česneku (pro potření)",
+    "20 ml vody (pro česnekové potření)",
+    "100 g strouhaného tvrdého sýra typu eidam"
+  ],
+  "instructions": [
+    "Do teplého mléka (cca 30 °C) rozdrobte droždí, přidejte cukr a nechte 10 minut vzejít kvásek.",
+    "Do mísy kuchyňského robota dejte mouku, sůl, vzešlý kvásek a olej. Hněťte hákem při nízké rychlosti 5-7 minut, dokud se těsto nelepí na stěny mísy.",
+    "Těsto zakryjte a nechte kynout na teplém místě 45 minut, dokud nezdvojnásobí objem.",
+    "Vykynuté těsto rozdělte na 6-8 bochánků, položte na naolejovaný povrch a nechte dalších 20-30 minut relaxovat.",
+    "Olej v hrnci nebo fritéze zahřejte na 180 °C. Bochánek rukama vytáhněte do tenké placky a vložte do oleje.",
+    "Smažte dozlatova z obou stran (cca 60-90 sekund na stranu), poté nechte okapat na papírové utěrce.",
+    "Potřete směsí drceného česneku, vody a špetky soli, následně posypte sýrem."
+  ],
+  "applianceTips": "Pro ideální výsledek použijte kuchyňský robot s hnětacím hákem pro dosažení optimální elasticity lepku. Pokud chcete snížit množství tuku, lze použít horkovzdušnou fritézu na 190 °C, ale výsledek bude mít blíže k pečivu než k tradičnímu smaženému langoši.",
+  "expertJustification": "Změna teploty oleje na 180 °C (oproti 195 °C) zabraňuje rychlému připálení vnějších vrstev cukrů (Maillardova reakce) předtím, než se propeče střed. Relaxace těsta před tvarováním je klíčová pro uvolnění lepkové sítě, což umožňuje snadné vytahování placky bez trhání. Vyšší hydratace těsta a postupná fermentace zajišťují, že langoš neabsorbuje nadbytečný olej.",
+  "applianceType": "Kuchyňský robot",
+  "cookingTime": "90 min",
+  "difficulty": "Střední",
+  "category": "Ostatní",
+  "id": "gen-1781777204138"
+}
