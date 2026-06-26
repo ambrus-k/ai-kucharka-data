@@ -1,0 +1,31 @@
+{
+  "id": "chleb",
+  "title": "Domácí chléb",
+  "summary": "Pšenično-žitný chléb s optimálním kynutím.",
+  "cookingTime": "180 min",
+  "difficulty": "Snadné",
+  "applianceType": "Domácí pekárna",
+  "ingredients": [
+    "330ml vlažné vody",
+    "1.5 lžíce olivového oleje",
+    "1.5 lžičky soli",
+    "1 lžička cukru",
+    "350g hladké pšeničné chlebové mouky",
+    "150g žitné chlebové mouky",
+    "1.5 lžičky drceného kmínu",
+    "1.25 lžičky sušeného droždí"
+  ],
+  "instructions": [
+    "Do nádoby domácí pekárny nalijte nejprve tekuté suroviny: vlažnou vodu a olivový olej.",
+    "Přidejte sůl a cukr do protilehlých rohů nádoby.",
+    "Zasypte oběma druhy mouky tak, aby zcela zakryly vodní hladinu.",
+    "Uprostřed mouky vytvořte malý důlek (nesmí dosáhnout k vodě) and nasypte do něj sušené droždí. Do rohů přidejte kmín.",
+    "Vložte nádobu do pekárny, zvolte program 'Základní' (Basic/French), velikost bochníku 750g-1000g, a barvu kůrky 'Tmavá'.",
+    "Spusťte program. Na začátku hnětení doporučujeme po 5 minutách vizuálně zkontrolovat těsto – mělo by tvořit hladkou nelepivou kouli. Pokud je moc tekuté, přidejte lžíci mouky.",
+    "Po upečení chléb ihned opatrně vyjměte z pekárny i z formy a nechte zcela vychladnout na mřížce (alespoň 1 hodinu), aby se střídka nesrazila."
+  ],
+  "applianceTips": "Po skončení hnětení a před spuštěním fáze pečení je skvělé rychle otevřít víko, čistýma mokrýma rukama vyjmout hnětací háky a těsto urovnat. Chléb pak nebude mít vespod velké díry po hácích.",
+  "expertJustification": "Vědecký pohled na kvašení: Přesné pořadí ingrediencí brání předčasné aktivaci kvasinek solí (sůl je osmoticky aktivní a kvasinky by dehydratovala). Žitná mouka dodává chlebu amylázu, která štěpí škroby na jednoduché cukry, což dává střídce pružnost a prodlužuje čerstvost.",
+  "category": "Pečivo",
+  "isDefault": true
+}
