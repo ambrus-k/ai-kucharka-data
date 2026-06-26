@@ -107,7 +107,7 @@ app.get("/api/health", (req, res) => {
 app.get(["/api", "/api/recipes"], async (req, res) => {
   try {
     const token = (process.env.GITHUB_DATA_TOKEN || process.env.GITHUB_TOKEN || "").trim();
-    const owner = (process.env.GITHUB_USERNAME || "ambrus-k").trim();
+    const owner = (process.env.GITHUB_USERNAME || "karelaa").trim();
     const repo = (process.env.GITHUB_REPO || "ai-kucharka-data").trim();
     const branch = "main";
 
@@ -191,7 +191,7 @@ app.all(["/api", "/api/recipes"], async (req, res) => {
 
   try {
     const token = (process.env.GITHUB_DATA_TOKEN || process.env.GITHUB_TOKEN || "").trim();
-    const owner = (process.env.GITHUB_USERNAME || "ambrus-k").trim();
+    const owner = (process.env.GITHUB_USERNAME || "karelaa").trim();
     const repo = (process.env.GITHUB_REPO || "ai-kucharka-data").trim();
     const branch = "main";
 
