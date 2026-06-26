@@ -1,0 +1,30 @@
+{
+  "id": "chleb",
+  "title": "Chléb rychlý s kvasnicemi",
+  "summary": "Pšenično-žitný chléb se sladovým výtažkem a čerstvým droždím, nyní optimalizovaný pro větší bochník s celkovým množstvím 600 g mouky.",
+  "cookingTime": "180 min",
+  "difficulty": "Snadné",
+  "applianceType": "Domácí pekárna",
+  "ingredients": [
+    "400 ml vlažné vody",
+    "16 g čerstvého droždí",
+    "18 g Sladěnky (sladový výtažek)",
+    "2 lžíce olivového oleje",
+    "2 lžičky soli",
+    "420 g hladké pšeničné chlebové mouky",
+    "180 g žitné chlebové mouky",
+    "2 lžičky drceného kmínu"
+  ],
+  "instructions": [
+    "Do nádoby domácí pekárny nalijte vlažnou vodu. Přidejte rozdrobené čerstvé droždí a Sladěnku, nechte několik minut rozpustit a aktivovat.",
+    "Přilijte olivový olej. Do protilehlých rohů nádoby přidejte sůl a drcený kmín.",
+    "Zasypte oběma druhy mouky tak, aby zcela zakryly tekutou směs.",
+    "Vložte nádobu do pekárny, zvolte program 'Základní' (Basic/French), velikost bochníku ideálně 900g-1200g, a barvu kůrky 'Tmavá'.",
+    "Spusťte program. Na začátku hnětení doporučujeme po 5 minutách vizuálně zkontrolovat těsto – mělo by tvořit hladkou nelepivou kouli. Pokud je moc tekuté, přidejte lžíci mouky.",
+    "Po upečení chléb ihned opatrně vyjměte z pekárny i z formy a nechte zcela vychladnout na mřížce (alespoň 1 hodinu), aby se střídka nesrazila."
+  ],
+  "applianceTips": "Po skončení hnětení a před spuštěním fáze pečení je skvělé rychle otevřít víko, čistýma mokrýma rukama vyjmout hnětací háky a těsto urovnat. Chléb pak nebude mít vespod velké díry po hácích.",
+  "expertJustification": "Úprava receptu spočívá v navýšení celkového množství mouky z 500 g na požadovaných 600 g, což představuje zvýšení o 20%. Aby byla zachována optimální hydratace a poměry všech složek, byly všechny ostatní suroviny (voda, droždí, Sladěnka, olej, sůl, kmín) proporcionálně navýšeny o stejných 20%. Tím je zajištěno, že textura, kynutí a výsledná chuť chleba zůstanou konzistentní s původním receptem, jen ve větším objemu. Mírné zaokrouhlení některých hodnot je praktické pro domácí měření a nemá negativní vliv na výsledek, přičemž poměr hydratace zůstává téměř identický (původní 66%, nový 66,6%). Doporučená velikost bochníku v pekárně byla upravena tak, aby odpovídala většímu objemu těsta.",
+  "category": "Pečivo",
+  "isDefault": true
+}
