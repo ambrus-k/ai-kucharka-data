@@ -1,32 +1,34 @@
 {
   "title": "Langoše",
-  "summary": "Tradiční kynuté placky s křupavou kůrkou a vláčným středem, připravené s důrazem na správnou teplotu oleje a hydrataci těsta.",
+  "summary": "Tradiční smažené placky zjemněné zakysanou smetanou pro minimální nasákavost oleje, upravené pro rychlou přípravu bez nutnosti chladového kynutí.",
   "ingredients": [
-    "500 g hladké pšeničné mouky (typ 00)",
-    "330 ml plnotučného mléka",
-    "20 g čerstvého droždí",
-    "20 ml řepkového oleje do těsta",
+    "500 g hladké pšeničné mouky (ideálně s obsahem proteinu nad 12 %)",
+    "250 g plnotučného mléka (vlažného, cca 35 °C)",
+    "80 g zakysané smetany (16 % tuku)",
+    "15 g čerstvého droždí",
+    "10 g cukru krupice",
     "10 g jemné soli",
-    "5 g krystalového cukru",
-    "1000 ml řepkového oleje na smažení",
-    "3 stroužky česneku (pro potření)",
-    "20 ml vody (pro česnekové potření)",
-    "100 g strouhaného tvrdého sýra typu eidam"
+    "20 g řepkového oleje (do těsta)",
+    "1000 ml řepkového oleje (na smažení)",
+    "4 stroužky česneku",
+    "50 ml teplé vody",
+    "150 g nastrouhaného sýru Gouda",
+    "150 g zakysané smetany na ozdobu"
   ],
   "instructions": [
-    "Do teplého mléka (cca 30 °C) rozdrobte droždí, přidejte cukr a nechte 10 minut vzejít kvásek.",
-    "Do mísy kuchyňského robota dejte mouku, sůl, vzešlý kvásek a olej. Hněťte hákem při nízké rychlosti 5-7 minut, dokud se těsto nelepí na stěny mísy.",
-    "Těsto zakryjte a nechte kynout na teplém místě 45 minut, dokud nezdvojnásobí objem.",
-    "Vykynuté těsto rozdělte na 6-8 bochánků, položte na naolejovaný povrch a nechte dalších 20-30 minut relaxovat.",
-    "Olej v hrnci nebo fritéze zahřejte na 180 °C. Bochánek rukama vytáhněte do tenké placky a vložte do oleje.",
-    "Smažte dozlatova z obou stran (cca 60-90 sekund na stranu), poté nechte okapat na papírové utěrce.",
-    "Potřete směsí drceného česneku, vody a špetky soli, následně posypte sýrem."
+    "V misce smíchejte vlažné mléko, cukr a rozdrobené droždí. Nechte na teplém místě 10 minut vzejít kvásek.",
+    "Do mísy kuchyňského robotu prosejte mouku, přidejte sůl, zakysanou smetanu, 20 g oleje a vzešlý kvásek. Hněťte hnětacím hákem na střední rychlost po dobu 6 až 8 minut, dokud nezískáte hladké a elastické těsto.",
+    "Těsto vložte do olejem vymazané mísy, přikryjte fólií nebo utěrkou a nechte na teplém místě kynout přibližně 1 hodinu, dokud nezdvojnásobí svůj objem.",
+    "Vykynuté těsto rozdělte na 6 stejných dílů (cca 140 g), vytvarujte z nich hladké bochánky, potřete lehce olejem a nechte na pracovní ploše 20 minut odpočívat, aby se uvolnil lepek a těsto se snadno tvarovalo.",
+    "Rukama potřenýma olejem jemně vytahujte bochánky od středu směrem k okrajům tak, aby střed byl velmi tenký a okraje zůstaly mírně vystouplé.",
+    "V hluboké pánvi nebo širokém hrnci rozehřejte olej na stabilní teplotu 180 °C. Langoš opatrně vložte do oleje a smažte zhruba 60-90 sekund z každé strany dozlatova.",
+    "Hotový langoš vyjměte a nechte okapat na papírové utěrce. Potřete česnekem utřeným se solí a teplou vodou, ozdobte zakysanou smetanou a posypte nastrouhanou goudou."
   ],
-  "applianceTips": "Pro ideální výsledek použijte kuchyňský robot s hnětacím hákem pro dosažení optimální elasticity lepku. Pokud chcete snížit množství tuku, lze použít horkovzdušnou fritézu na 190 °C, ale výsledek bude mít blíže k pečivu než k tradičnímu smaženému langoši.",
-  "expertJustification": "Změna teploty oleje na 180 °C (oproti 195 °C) zabraňuje rychlému připálení vnějších vrstev cukrů (Maillardova reakce) předtím, než se propeče střed. Relaxace těsta před tvarováním je klíčová pro uvolnění lepkové sítě, což umožňuje snadné vytahování placky bez trhání. Vyšší hydratace těsta a postupná fermentace zajišťují, že langoš neabsorbuje nadbytečný olej.",
-  "applianceType": "Kuchyňský robot",
-  "cookingTime": "90 min",
+  "applianceTips": "Pro dokonalé uhnětení těsta bez námahy využijte kuchyňský robot s hnětacím hákem nastavený na rychlost 2 po dobu 8 minut. K udržení naprosto přesné teploty oleje 180 °C při smažení doporučujeme použít indukční plotýnku s externím teplotním senzorem.",
+  "expertJustification": "Vynecháním chladové retardace jsme výrazně zkrátili celkovou dobu přípravy. Kyselost zakysané smetany v těstě stále spolehlivě oslabuje lepkovou mřížku, což zaručuje vynikající tažnost při tvarování a zabraňuje gumové textuře po smažení. Smetana navíc funguje jako tuková bariéra, která brání nadměrnému nasáknutí oleje. Jednofázové teplé kynutí podporuje rychlou produkci plynů, díky čemuž jsou langoše po usmažení krásně nadýchané, s křupavou kůrkou a měkkým vnitřkem.",
+  "applianceType": "Kuchyňský robot a indukční plotýnka",
+  "cookingTime": "1 h 50 min",
   "difficulty": "Střední",
-  "category": "Ostatní",
-  "id": "gen-1781777204138"
+  "category": "Pečivo",
+  "id": "gen-1781590909243"
 }
