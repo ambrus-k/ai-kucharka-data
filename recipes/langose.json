@@ -1,12 +1,12 @@
 {
   "title": "Langoše",
-  "summary": "Tradiční smažené placky zjemněné zakysanou smetanou pro minimální nasákavost oleje, upravené pro rychlou přípravu bez nutnosti chladového kynutí.",
+  "summary": "Klasické langoše upravené s nižším podílem mléka pro pevnější, méně lepivé těsto a sladěnkou místo cukru pro intenzivnější kynutí a optimální barvu kůrky.",
   "ingredients": [
-    "500 g hladké pšeničné mouky (ideálně s obsahem proteinu nad 12 %)",
-    "250 g plnotučného mléka (vlažného, cca 35 °C)",
+    "500 g hladké pšeničné mouky (s obsahem proteinu nad 12 %)",
+    "200 g plnotučného mléka (vlažného, cca 35 °C)",
     "80 g zakysané smetany (16 % tuku)",
     "15 g čerstvého droždí",
-    "10 g cukru krupice",
+    "10 g sladěnky (ječného sladového extraktu)",
     "10 g jemné soli",
     "20 g řepkového oleje (do těsta)",
     "1000 ml řepkového oleje (na smažení)",
@@ -16,18 +16,18 @@
     "150 g zakysané smetany na ozdobu"
   ],
   "instructions": [
-    "V misce smíchejte vlažné mléko, cukr a rozdrobené droždí. Nechte na teplém místě 10 minut vzejít kvásek.",
-    "Do mísy kuchyňského robotu prosejte mouku, přidejte sůl, zakysanou smetanu, 20 g oleje a vzešlý kvásek. Hněťte hnětacím hákem na střední rychlost po dobu 6 až 8 minut, dokud nezískáte hladké a elastické těsto.",
-    "Těsto vložte do olejem vymazané mísy, přikryjte fólií nebo utěrkou a nechte na teplém místě kynout přibližně 1 hodinu, dokud nezdvojnásobí svůj objem.",
-    "Vykynuté těsto rozdělte na 6 stejných dílů (cca 140 g), vytvarujte z nich hladké bochánky, potřete lehce olejem a nechte na pracovní ploše 20 minut odpočívat, aby se uvolnil lepek a těsto se snadno tvarovalo.",
-    "Rukama potřenýma olejem jemně vytahujte bochánky od středu směrem k okrajům tak, aby střed byl velmi tenký a okraje zůstaly mírně vystouplé.",
-    "V hluboké pánvi nebo širokém hrnci rozehřejte olej na stabilní teplotu 180 °C. Langoš opatrně vložte do oleje a smažte zhruba 60-90 sekund z každé strany dozlatova.",
-    "Hotový langoš vyjměte a nechte okapat na papírové utěrce. Potřete česnekem utřeným se solí a teplou vodou, ozdobte zakysanou smetanou a posypte nastrouhanou goudou."
+    "V misce důkladně smíchejte 200 g vlažného plnotučného mléka, 10 g sladěnky a 15 g rozdrobeného čerstvého droždí. Nechte na teplém místě 10 minut vzejít kvásek.",
+    "Do mísy kuchyňského robotu prosejte 500 g hladké pšeničné mouky, přidejte 10 g jemné soli, 80 g zakysané smetany, 20 g řepkového oleje a celý vzešlý kvásek (obsahující 200 g mléka, 10 g sladěnky a 15 g droždí). Hněťte hnětacím hákem na rychlost 2 po dobu 8 minut do hladkého a pružného těsta.",
+    "Uhnětené těsto (připravené z 500 g mouky, 200 g mléka, 80 g smetany, 15 g droždí, 10 g sladěnky, 10 g soli a 20 g oleje) vytvarujte do koule, vložte do mísy, přikryjte fólií a nechte kynout na teplém místě po dobu 1 hodiny.",
+    "Vykynuté těsto (celkem cca 835 g) rozdělte na 6 stejných dílů o hmotnosti cca 139 g. Každý bochánek lehce potřete malým množstvím (cca 5 ml) z připravených 1000 ml řepkového oleje a nechte na ploše 20 minut odpočívat.",
+    "Rukama potřenýma tenkým filmem oleje (cca 5 ml z vyhrazených 1000 ml řepkového oleje) vytahujte jednotlivých 6 bochánků těsta (každý o hmotnosti 139 g) od středu k okrajům tak, aby střed byl velmi tenký a okraje mírně širší.",
+    "V hluboké pánvi rozehřejte zbývající část z 1000 ml řepkového oleje na stabilní teplotu 180 °C. Každý vytvarovaný langoš (vytvořený ze 139 g těsta) smažte 60 až 90 sekund z každé strany dozlatova.",
+    "Hotové langoše nechte okapat na savém papíru. Následně je potřete směsí ze 4 stroužků utřeného česneku a 50 ml teplé vody, potřete 150 g zakysané smetany a posypejte 150 g nastrouhané goudy."
   ],
-  "applianceTips": "Pro dokonalé uhnětení těsta bez námahy využijte kuchyňský robot s hnětacím hákem nastavený na rychlost 2 po dobu 8 minut. K udržení naprosto přesné teploty oleje 180 °C při smažení doporučujeme použít indukční plotýnku s externím teplotním senzorem.",
-  "expertJustification": "Vynecháním chladové retardace jsme výrazně zkrátili celkovou dobu přípravy. Kyselost zakysané smetany v těstě stále spolehlivě oslabuje lepkovou mřížku, což zaručuje vynikající tažnost při tvarování a zabraňuje gumové textuře po smažení. Smetana navíc funguje jako tuková bariéra, která brání nadměrnému nasáknutí oleje. Jednofázové teplé kynutí podporuje rychlou produkci plynů, díky čemuž jsou langoše po usmažení krásně nadýchané, s křupavou kůrkou a měkkým vnitřkem.",
-  "applianceType": "Kuchyňský robot a indukční plotýnka",
-  "cookingTime": "1 h 50 min",
+  "applianceTips": "Pro dokonalé hnětení tužšího těsta použijte kuchyňský robot s celokovovými převody a hnětacím hákem. Pro přesnou teplotu smažení 180 °C, která zabrání přepalování oleje, použijte indukční varnou desku s externí teplotní sondou vloženou přímo do oleje.",
+  "expertJustification": "Snížení objemu mléka na 200 g zpevnilo strukturu těsta, což umožňuje snadnější vytahování bez rizika potrhání. Nahrazení bílého cukru sladěnkou (ječným sladem) dodává kvasinkám lépe využitelnou maltózu, což urychluje fermentaci, zlepšuje elasticitu lepku a díky Maillardově reakci zajišťuje sytější zlatavé zbarvení kůrky bez nepříjemné pachuti rafinovaného cukru.",
+  "applianceType": "Kuchyňský robot a indukční deska s teplotní sondou",
+  "cookingTime": "1 h 45 min",
   "difficulty": "Střední",
   "category": "Pečivo",
   "id": "gen-1781590909243"
