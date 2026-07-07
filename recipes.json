@@ -102,37 +102,6 @@
     "id": "gen-1781777265750"
   },
   {
-    "title": "Chléb kváskový s kmínem",
-    "summary": "Vylepšená verze s čistou autolýzou pro maximální rozvoj lepku, řízeným skládáním těsta pro vzdušnou střídu a studeným kynutím pro hluboké aroma.",
-    "ingredients": [
-      "250 g pšeničné mouky chlebové (vysoký obsah proteinu, min. 12 %)",
-      "250 g pšeničné hladké mouky světlé (typ T550)",
-      "100 g žitné mouky chlebové (do rozkvasu)",
-      "100 ml vody (odražené, cca 25 °C - do rozkvasu)",
-      "10 g aktivního žitného kvásku (mateřského)",
-      "350 ml vody (studené/vlažné - rozdělené na 320 ml a 30 ml na bassinage)",
-      "14 g jemné mořské soli",
-      "8 g celého kmínu (lehce drceného)"
-    ],
-    "instructions": [
-      "1. Aktivace rozkvasu: 8 až 12 hodin před pečením smíchejte 100 g žitné mouky, 100 ml vody a 10 g mateřského kvásku. Nechte zrát při stabilní teplotě 21 až 23 °C, dokud neztrojnásobí svůj objem a na hladině se neobjeví bubliny.",
-      "2. Čistá autolýza (45 minut): V míse kuchyňského robota smíchejte obě pšeničné mouky s 320 ml vody. Míchejte pouze do úplného zvlhčení mouky, aby nezůstala suchá místa. Zakryjte a nechte 45 minut odpočívat pro přirozenou tvorbu lepkové sítě.",
-      "3. Zapracování rozkvasu: K autolyzovanému těstu přidejte připravený rozkvas. Hněťte v robotu na nízkou rychlost po dobu 4 minut, dokud se těsto nespojí a nezačne se odlepovat od stěn.",
-      "4. Solení a bassinage: Přidejte sůl, kmín a zbylých 30 ml vody. Hněťte dalších 3 až 5 minut na mírně vyšší rychlost, dokud těsto nedosáhne plného rozvoje lepku a neprojde testem okénka.",
-      "5. Bulk fermentace a skládání (3 až 4 hodiny): Těsto přemístěte do olejem vytřené průhledné nádoby. Během prvních 2 hodin proveďte celkem 4 sady překládání (stretch and fold) každých 30 minut pro zpevnění struktury a rovnoměrnou teplotu.",
-      "6. Tvarování a předtvarování: Těsto vyklopte na lehce pomoučenou plochu, jemně vytvarujte do bochánku a nechte 20 minut odpočívat na lince. Poté vytvarujte finální oválný nebo kulatý tvar se silným povrchovým napětím a vložte švem nahoru do ošatky.",
-      "7. Chladová retardace (12 až 16 hodin): Ošatku s těstem zabalte do plastového sáčku a uložte do chladničky při stabilní teplotě 4 °C. Nízká teplota zpomalí kvasinky, zpevní těsto pro snadnější nařezávání a umožní tvorbu komplexního aroma.",
-      "8. Pečení v litině: Troubu s litinovým hrncem rozpalte na 250 °C po dobu 60 minut. Vychlazené těsto vyklopte přímo z chladničky na pečicí papír, pod úhlem 45 stupňů rychle nařízněte žiletkou do hloubky 1 cm a vložte do rozpáleného hrnce. Přidejte kostku ledu pod papír, ihned přiklopte a pečte 20 minut. Poté sejměte poklici, snižte teplotu na 210 °C a dopékejte 20 až 25 minut."
-    ],
-    "applianceTips": "Pro dokonalé upečení použijte masivní litinový hrnec vložený do klasické trouby. Litina akumuluje teplo a těsná poklice udrží přirozenou vlhkost odpařující se z těsta, což nahrazuje profesionální parní pec. Pro hnětení doporučujeme kuchyňský robot s masivním hnětacím hákem na nízké otáčky, aby se těsto nezahřálo nad 26 °C.",
-    "expertJustification": "Změnili jsme postup z fermentolýzy na čistou autolýzu bez kvásku a soli, protože sůl a kyselost brzdí optimální hydrataci bílkovin a tvorbu lepku. Zavedli jsme 4 sady překládání namísto jednoho, což zásadně zvyšuje plynotěsnost těsta a zajišťuje vzdušnou střídu. Chladová retardace při 4 °C stimuluje enzymatické procesy a tvorbu kyseliny mléčné, což dává chlebu bohatší chuť, tmavší a křupavější kůrku s puchýřky a zabraňuje překynutí. Kostka ledu v uzavřeném hrnci vytvoří okamžitý ráz páry, což oddálí tvorbu kůrky a podpoří maximální pecní skok.",
-    "applianceType": "Klasická trouba (s litinovým hrncem)",
-    "cookingTime": "18 hod",
-    "difficulty": "Střední",
-    "id": "gen-1781436052588",
-    "category": "Pečivo"
-  },
-  {
     "title": "Chléb kváskový",
     "summary": "Venkovský chléb s vylepšenou hydratací a řízenou fermentací pro maximální střídku a křupavou kůrku.",
     "ingredients": [
