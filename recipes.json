@@ -1,5 +1,34 @@
 [
   {
+    "title": "Žitno-pšeničný chléb",
+    "summary": "Profesionálně optimalizovaný hutný chléb s vysokým podílem žita, zaměřený na správnou hydrataci a dokonalou střídu.",
+    "ingredients": [
+      "200 g aktivního žitného kvásku",
+      "145 g pšeničné mouky chlebové T650",
+      "355 g žitné mouky chlebové T930",
+      "415 g vlažné vody (30 °C)",
+      "16 g soli",
+      "11 g celého kmínu",
+      "30 g žitné mouky na vysypání ošatky/formy"
+    ],
+    "instructions": [
+      "Pro přípravu rozkvasu smíchejte 15 g mateřského kvásku se 100 g žitné mouky a 100 g vlažné vody. Nechte fermentovat 10 hodin při pokojové teplotě, dokud zdvojnásobí objem.",
+      "Do mísy vlijte 415 g vlažné vody a přidejte 200 g aktivního rozkvasu. Přisypte 145 g pšeničné mouky a 355 g žitné mouky. Vše krátce promíchejte a nechte 40 minut probíhat autolýzu, aby žitná vláknina plně absorbovala vodu.",
+      "Do autolyzovaného těsta přidejte 16 g soli a 11 g celého kmínu. Hněťte robotem nebo stěrkou pouze do úplného spojení surovin, což trvá přibližně 3 minuty.",
+      "Těsto nechte fermentovat 4 hodiny při teplotě 22 °C. Během kynutí těsto neprovádějte klasické překládání, pouze stěrkou jemně obracejte stěny těsta směrem ke středu.",
+      "Navlhčenýma rukama vytvarujte těsto do tvaru bochníku a vložte jej do formy na biskupský chlebíček vysypané 30 g žitné mouky. Formu dejte na 14 hodin do chladničky pro zpomalenou fermentaci (retardaci).",
+      "Troubu rozehřejte na 250 °C se zapařením (plech s vodou na dně). Vložte formu s těstem a pečte 20 minut. Poté odstraňte zdroj páry, snižte teplotu na 200 °C a dopečte dalších 35 minut do tmavé kůrky."
+    ],
+    "applianceTips": "Při použití domácí pekárny zvolte program 'Žitný' nebo 'Bezlepkový', který eliminuje dlouhé hnětení a zaměřuje se na delší kynutí a důkladné pečení, což je pro tento typ těsta s nízkým obsahem lepku klíčové.",
+    "expertJustification": "Změny v postupu reflektují absenci lepku v žitné mouce (tzv. 'plastická' struktura). Autolýza byla prodloužena pro maximální hydrataci pentosanů (cukrů v žitu), což zabraňuje vysychání střídy. Teplotní profil pečení s vysokým počátečním náběhem (250 °C) a následným dopékáním (200 °C) zajistí správnou denaturaci bílkovin a tvorbu pevné kůrky bez nutnosti chemických kypridel.",
+    "applianceType": "Klasická trouba",
+    "cookingTime": "15 hodin",
+    "difficulty": "Střední",
+    "category": "Pečivo",
+    "id": "gen-1783527082168",
+    "updatedAt": "2026-07-08T16:11:22.446Z"
+  },
+  {
     "title": "Chléb kváskový 1:1",
     "summary": "Pšenično-žitný chléb s optimální strukturou střídky a křupavou kůrkou, připravený pomocí techniky dlouhého zrání v chladu.",
     "ingredients": [
