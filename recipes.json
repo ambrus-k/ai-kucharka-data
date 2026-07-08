@@ -54,33 +54,34 @@
     "updatedAt": "2026-07-08T16:07:36.537Z"
   },
   {
-    "title": "Šumava 700g mouky",
-    "summary": "Tradiční pšenično-žitný chléb s upraveným poměrem surovin na celkových 700 g mouky pro optimální strukturu střídy.",
+    "title": "Šumavský bochník s vylepšenou hydratací",
+    "summary": "Vylepšený recept na pšenično-žitný chléb s vyšší hydratací a přídavkem medu pro delší vláčnost střídy a lepší barvu kůrky.",
     "ingredients": [
       "150 g aktivního žitného kvásku",
       "400 g pšeničné chlebové mouky (T650)",
       "150 g žitné chlebové mouky (T930)",
-      "315 g vlažné vody (30 °C)",
+      "350 g vlažné vody (30 °C)",
       "14 g jemné mořské soli",
       "10 g celého kmínu",
-      "20 g směsi žitné a rýžové mouky na vysypání ošatky"
+      "10 g medu",
+      "20 g rýžové mouky na vysypání ošatky"
     ],
     "instructions": [
-      "V míse důkladně promíchejte 75 g žitného kvásku, 75 g žitné mouky a 75 g vody. Nechte 10 hodin při 22 °C zrát, dokud není směs aktivní a plná bublin.",
-      "V míse robotu smíchejte 315 g vlažné vody (30 °C), 150 g aktivního kvásku, 400 g pšeničné mouky a 150 g žitné mouky. Nechte 30 minut odpočívat (autolýza).",
-      "Do autolyzovaného těsta přidejte 14 g soli a 10 g celého kmínu. Hněťte 4 minuty, dokud není těsto hladké a nelepivé.",
-      "Během 4 hodin fermentace proveďte 4x překládání těsta v intervalech 60 minut. V každém kroku pracujte s celým objemem těsta (cca 889 g), které jemně vytáhnete a přeložíte.",
-      "Vytvarujte bochník a vložte jej do ošatky vysypané 20 g směsi mouk. Nechte kynout 14 hodin v lednici při 4 °C.",
-      "Předehřejte troubu s litinovým hrncem na 250 °C. Vložte bochník do hrnce, přikryjte poklicí a pečte 20 minut. Poté odstraňte poklici, snižte teplotu na 200 °C a dopečte 30 minut."
+      "Připravte si 150 g aktivního kvásku z 75 g žitné mouky a 75 g vody.",
+      "V míse smíchejte 350 g vlažné vody s 10 g medu a 150 g aktivního kvásku. Přidejte mouky a promíchejte. Nechte 45 minut odpočívat (autolýza).",
+      "Přidejte sůl a kmín. Těsto hněťte, dokud se nezačne odlepovat od stěn nádoby.",
+      "Provádějte překládání těsta každých 45 minut po dobu 3 hodin (celkem 4x).",
+      "Bochník vytvarujte, vložte do ošatky a nechte 12-14 hodin kynout v chladu při 4 °C.",
+      "Pečte v předehřátém litinovém hrnci na 250 °C pod poklicí 25 minut, poté odkryté při 200 °C dalších 25 minut do tmavě hnědé barvy."
     ],
-    "applianceTips": "Pro dosažení ideální krusty v klasické troubě vložte na dno trouby plech s vodou během prvních 10 minut pečení, pokud nepoužíváte litinový hrnec s poklicí.",
-    "expertJustification": "Snížení celkového množství mouky na 700 g bylo kompenzováno úpravou hydratačního poměru, aby byla zachována elasticita lepkové sítě a objem bochníku při zachování tradiční receptury bez umělých aditiv.",
-    "applianceType": "Klasická trouba",
+    "applianceTips": "Při pečení v hrnci umístěte hrnec na spodní rošt pro lepší přenos tepla a rozvoj dna chleba.",
+    "expertJustification": "Zvýšená hydratace na 70 % zajišťuje lepší elastičnost střídy a delší čerstvost, med funguje jako hygroskopická složka a substrát pro Maillardovu reakci při pečení.",
+    "applianceType": "Trouba s litinovým hrncem",
     "cookingTime": "16 hodin",
     "difficulty": "Střední",
     "category": "Pečivo",
     "id": "gen-1783526613942",
-    "updatedAt": "2026-07-08T16:20:11.382Z"
+    "updatedAt": "2026-07-08T16:21:04.992Z"
   },
   {
     "title": "Banánový chlebíček",
