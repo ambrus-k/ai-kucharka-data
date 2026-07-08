@@ -57,36 +57,6 @@
     "updatedAt": "2026-07-08T16:06:05.172Z"
   },
   {
-    "title": "Chléb  žitno-pšeničný 1:1",
-    "summary": "Recept upravený na vyšší hydrataci těsta pro dosažení vláčnější střídky a lepší objemnosti bochníku.",
-    "ingredients": [
-      "200 g aktivního žitného kvásku (100 g žitné mouky, 100 g vody)",
-      "350 g pšeničné mouky chlebové (T650)",
-      "250 g žitné mouky chlebové (T930)",
-      "380 g vlažné vody (teplota 30 °C)",
-      "16 g soli",
-      "11 g celého kmínu",
-      "30 g směsi žitné a rýžové mouky na vysypání ošatky"
-    ],
-    "instructions": [
-      "Příprava rozkvašu: Smíchejte 15 g mateřského kvásku, 100 g žitné mouky a 100 g vody. Nechte 10 hodin při 22 °C pracovat.",
-      "Autolýza: V míse smíchejte 380 g vody, 200 g rozkvašu, 350 g pšeničné mouky a 250 g žitné mouky. Promíchejte a nechte 30 minut odpočívat pro plnou hydrataci vlákniny.",
-      "Hnětení: Přidejte 16 g soli a 11 g kmínu. Hněťte 3 minuty při nízkých otáčkách, dokud těsto není homogenní, ale stále hydratované.",
-      "Fermentace: Nechte kynout 4 hodiny při 22 °C, každých 60 minut těsto přeložte (celkem 4x).",
-      "Tvarování: Bochník vytvarujte na ploše vysypané 30 g směsi mouk a vložte do ošatky.",
-      "Retardace: Kynutí v chladničce při 4 °C po dobu 14 hodin.",
-      "Pečení: Pečte v předehřátém litinovém hrnci na 250 °C po dobu 20 minut s poklicí, poté bez poklice při 200 °C dalších 30 minut."
-    ],
-    "applianceTips": "Při práci s těstem o vyšší hydrataci používejte stěrku potřenou vodou nebo mírně navlhčené ruce, abyste zabránili přichytávání těsta.",
-    "expertJustification": "Zvýšení podílu vody o 50 g posouvá hydrataci těsta směrem k 75 %, což u žitných směsí výrazně zlepší elasticitu střídky a prodlouží trvanlivost pečiva díky vyšší vlhkosti.",
-    "applianceType": "Klasická trouba",
-    "cookingTime": "15 hod",
-    "difficulty": "Střední",
-    "category": "Pečivo",
-    "id": "gen-1783418679267",
-    "updatedAt": "2026-07-08T15:48:22.502Z"
-  },
-  {
     "title": "Banánový chlebíček",
     "summary": "Vylepšená verze klasického moučníku s optimalizovaným poměrem kypřidel a třtinovým cukrem pro maximální vláčnost a karamelový podtón.",
     "ingredients": [
