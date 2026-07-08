@@ -1,5 +1,35 @@
 [
   {
+    "title": "Šumava",
+    "summary": "Tradiční pšenično-žitný chléb s 68% hydratací a sladovým aroma, připravený metodou řízené fermentace a pečený studeným startem.",
+    "ingredients": [
+      "150 g aktivního žitného kvásku (100% hydratace)",
+      "400 g pšeničné chlebové mouky (T650)",
+      "150 g žitné chlebové mouky (T930)",
+      "350 g vlažné vody (25 °C)",
+      "14 g jemné mořské soli",
+      "10 g celého kmínu",
+      "10 g tekuté Sladěnky",
+      "20 g rýžové mouky na vysypání ošatky"
+    ],
+    "instructions": [
+      "Do mísy kuchyňského robota nalijte 350 g vlažné vody, přidejte 10 g Sladěnky a 150 g aktivního žitného kvásku. Vše krátce promíchejte, aby se kvásek ve vodě rozpustil.",
+      "Do směsi přidejte 400 g pšeničné chlebové mouky, 150 g žitné chlebové mouky, 14 g soli a 10 g kmínu. Hněťte pomocí hnětacího háku na nejnižší rychlost 6 až 8 minut, dokud není těsto homogenní a neodlepuje se od stěn mísy.",
+      "Uhnětené těsto zakryjte a nechte 2 hodiny fermentovat při pokojové teplotě, přičemž po 60 minutách proveďte překlad těsta ze všech čtyř stran pro zpevnění struktury.",
+      "Těsto vyklopte na pomoučený vál, vytvarujte pevný bochník a vložte jej spojem nahoru do ošatky vysypané 20 g rýžové mouky. Ošatku uzavřete do sáčku a nechte 12 až 14 hodin zrát v chladničce při 4 °C.",
+      "Studený bochník vyklopte z ošatky přímo na plech s pečicím papírem, proveďte podélný řez a vložte do studené trouby. Pečte s využitím automatického programu pro smíšený chléb, který řídí teplotu a vlhkost až do úplného propečení.",
+      "Upečený chléb ihned vyjměte z plechu a nechte jej minimálně 3 hodiny odpočívat na mřížce, aby se stabilizovala střída."
+    ],
+    "applianceTips": "Při použití trouby s funkcí PerfectBake využijte senzory vlhkosti, které předejdou vysušení střídy. Pokud nemáte program s párou, vložte na dno trouby horký plech a při zahřívání do něj vlijte 100 ml vroucí vody pro vytvoření startovacího rázu páry.",
+    "expertJustification": "Absence autolýzy je u receptů s vysokým podílem žita klíčová, protože žitné pentosany a enzymatická aktivita mohou při delším čekání degradovat lepkovou síť. Studený start v troubě umožňuje postupné uvolňování vnitřního pnutí těsta během nárůstu teploty, což zajišťuje rovnoměrné propečení bez popraskání kůrky a nadměrného vyběhnutí v jednom směru. Sladěnka dodává nejen barvu díky Maillardově reakci, ale také zkvasitelné cukry, které napomáhají barvě kůrky při kratších cyklech pečení.",
+    "applianceType": "Trouba s funkcí páry a senzorickým pečením",
+    "cookingTime": "16 hodin",
+    "difficulty": "Střední",
+    "category": "Pečivo",
+    "id": "gen-1783540977144",
+    "updatedAt": "2026-07-08T20:02:57.615Z"
+  },
+  {
     "title": "Chléb žitno-pšeničný 5:3",
     "summary": "Vylepšený recept s oddělenou autolýzou pro silnější strukturu střídy a precizní teplotní křivkou pečení.",
     "ingredients": [
