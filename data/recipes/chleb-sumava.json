@@ -1,0 +1,30 @@
+{
+  "title": "Chléb Šumava",
+  "summary": "Klasický český pšenično-žitný chléb s vyváženým poměrem mouky a typickou navinulou chutí.",
+  "ingredients": [
+    "420 g pšeničné chlebové mouky (T650)",
+    "160 g žitné chlebové mouky (T930)",
+    "240 g aktivního žitného kvasu (100% hydratace)",
+    "335 g vlažné vody (28–30 °C)",
+    "15 g soli",
+    "9 g celého kmínu",
+    "žitná chlebová mouka na vysypání ošatky"
+  ],
+  "instructions": [
+    "V mísicí nádobě smíchejte aktivní žitný kvas, vlažnou vodu, obě mouky, sůl a celý kmín.",
+    "Těsto hněťte mechanicky hákem nejprve na nízkou rychlost, následně rychlost zvyšte a hněťte dále, dokud nevznikne polotuhé, hladké a mírně lepkavé těsto vykazující dostatečnou elasticitu.",
+    "Uhnětené těsto nechte zrát v zakryté nádobě při teplé pokojové teplotě po dobu jedné až jedné a půl hodiny, dokud viditelně nezdvojnásobí svůj objem bez jakéhokoli překládání.",
+    "Vykynuté těsto vyklopte na pomoučený vál, vytvarujte pevný bochník a vložte jej spojem nahoru do ošatky důkladně vysypané žitnou moukou.",
+    "Bochník nechte kynout v ošatce při stabilní teplé teplotě přibližně hodinu do optimálního objemu bez využití lednice.",
+    "Vykynutý bochník vyklopte a vložte do trouby předehřáté na vysokou teplotu za okamžité aplikace páry, dokud chléb plně nenaskočí.",
+    "Následně vyvětrejte přebytečnou páru, snižte teplotu pečení a dopékejte přibližně půl hodiny, poté nechte chléb zcela vychladnout na mřížce."
+  ],
+  "applianceTips": "Využijte počáteční zapaření v prvních deseti minutách pečení pro maximalizaci objemu bochníku. Pro zbývající fázi páru zcela odvětrejte a dokončete pečení na klasický statický horní a dolní ohřev pro docílení pevné a křupavé kůrky.",
+  "expertJustification": "Celková bilance mouky striktně odpovídá tradičnímu poměru pšenice a žita šedesát ku čtyřiceti při pětašedesátiprocentní hydrataci, což zajišťuje optimální viskoelastické vlastnosti těsta. Jednofázová teplá fermentace podporuje dominantní rozvoj kyseliny mléčné, která utváří charakteristický profil chleba Šumava bez potřeby autolýzy.",
+  "applianceType": "Pečicí trouba s funkcí zapaření",
+  "cookingTime": "4 hodiny",
+  "difficulty": "Střední",
+  "category": "Pečivo",
+  "id": "gen-1783540977144",
+  "updatedAt": "2026-07-10T21:34:45.647Z"
+}
