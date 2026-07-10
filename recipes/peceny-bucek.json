@@ -6,7 +6,7 @@
   "difficulty": "Střední",
   "applianceType": "Horkovzdušná fritéza",
   "ingredients": [
-    "1,5 kg vepřového bůčku (s kůží, bez kosti)",
+    "1 kg vepřového bůčku (s kůží, bez kosti)",
     "2 lžičky hrubozrnné soli",
     "1 lžička drceného kmínu",
     "4 stroužky česneku (utřené)",
@@ -25,5 +25,5 @@
   "expertJustification": "Podle fyziky tepla: Dvoufázová metoda kombinuje pomalou želatinizaci kolagenu (při 160 °C, kdy maso změkne a pustí tuk) s bleskovou dehydratací kůže při vysoké teplotě (200 °C), která prudce expanduje vzduchové kapsy v kůži.",
   "category": "Maso",
   "isDefault": true,
-  "updatedAt": "2026-07-10T06:29:43.283Z"
+  "updatedAt": "2026-07-10T06:30:05.907Z"
 }
