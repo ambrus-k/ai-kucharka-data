@@ -1,0 +1,32 @@
+{
+  "title": "Chléb Šiumava",
+  "summary": "Tradiční řemeslný chléb s optimalizovanou hydratací a pomalou fermentací pro dosažení pevné střídy a křupavé kůrky.",
+  "ingredients": [
+    "500 g pšeničné chlebové mouky (T650)",
+    "150 g žitné chlebové mouky (T930)",
+    "100 g aktivního žitného kvásku",
+    "300 g vlažné vody (25 °C) na autolýzu",
+    "100 g vlažné vody (25 °C) na kvásek",
+    "14 g jemné mořské soli",
+    "10 g celého kmínu",
+    "10 g tekuté Sladěnky",
+    "50 g rýžové mouky na vysypání ošatky"
+  ],
+  "instructions": [
+    "Smíchejte pšeničnou mouku s vlažnou vodou a nechte 40 minut provádět autolýzu pro rozvoj lepkové sítě.",
+    "V samostatné nádobě rozmíchejte kvásek s vodou a Sladěnkou.",
+    "K autolyzovanému těstu přidejte připravenou tekutou směs, žitnou mouku, sůl a kmín. Hněťte hákem na nízké otáčky do dosažení hladké a poddajné konzistence.",
+    "Těsto nechte 2 hodiny kynout v teple, přičemž po první hodině proveďte překládání z každé strany pro posílení struktury.",
+    "Vytvarujte pevný bochník a vložte jej spojem nahoru do ošatky vysypané rýžovou moukou.",
+    "Pro pomalou fermentaci vložte zabalenou ošatku do lednice na 12 až 14 hodin, nebo při pokojové teplotě nechte kynout 2 až 3 hodiny do požadovaného objemu.",
+    "Bochník vyklopte a pečte v předehřáté troubě s počátečním zapařením, následně dopékejte při snížené teplotě."
+  ],
+  "applianceTips": "Při pečení využijte funkci maximálního zapaření v prvních 10 minutách pro dosažení optimálního naskočení (oven spring) a lesklé kůrky.",
+  "expertJustification": "Snížení podílu kvásku při zachování precizní autolýzy pšeničné složky zajišťuje lepší kontrolu nad aciditou těsta a umožňuje delší zrání bez rizika přerušení lepkové vazby.",
+  "applianceType": "Parní trouba",
+  "cookingTime": "16 hodin",
+  "difficulty": "Střední",
+  "category": "Pečivo",
+  "id": "gen-1783540977144",
+  "updatedAt": "2026-07-10T21:23:56.215Z"
+}
