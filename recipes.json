@@ -308,7 +308,7 @@
     "title": "Hovězí guláš",
     "summary": "Tradiční guláš připravený pomalým pečením v troubě, který využívá vysokého obsahu kolagenu v kližce pro dosažení bohaté, přirozeně zahuštěné textury a hluboké chuti.",
     "ingredients": [
-      "5,0 kg hovězí kližky (nakrájené na 4 cm kostky)",
+      "5,5 kg hovězí kližky (nakrájené na 4 cm kostky)",
       "5,0 kg žluté cibule (jemně nakrájené)",
       "0,9 kg vepřového sádla",
       "170 g sladké mleté papriky",
@@ -336,7 +336,8 @@
     "cookingTime": "3,5 hodiny",
     "difficulty": "Střední",
     "category": "Maso",
-    "id": "gen-1782448905657"
+    "id": "gen-1782448905657",
+    "updatedAt": "2026-07-10T07:36:56.343Z"
   },
   {
     "id": "knedliky",
